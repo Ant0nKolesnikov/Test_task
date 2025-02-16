@@ -74,7 +74,7 @@
 Средняя (нарушение бизнес-логики).
 
 **Окружение:**  
-- API: `https://qa-internship.avito.com/api/1`
+API: `https://qa-internship.avito.com/api/1`
 
 ---
 
@@ -113,7 +113,7 @@
 Средняя (нарушение бизнес-логики).
 
 **Окружение:**  
-- API: `https://qa-internship.avito.com/api/1`
+API: `https://qa-internship.avito.com/api/1`
 
 ---
 
